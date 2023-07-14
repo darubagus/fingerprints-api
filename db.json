@@ -1,12 +1,14 @@
 {
    "fingerprints":[
       {
-         "name": "github.com",
+         "id": 1,
+	 "name": "github.com",
          "fingerprint": "MRFQDEpmASza4zPsP8ocnd5FyVREDn7kE3Fr/zZjwHQ=",
          "expirationDate": 1591185600,
          "signature": ""
       },
       {
+         "id": 2
          "name": "github.com",
          "fingerprint": "MRFQDEpmASza4zPsP8ocnd5FyVREDn7kE3Fr/zZjwHQ=",
          "expirationDate": 1703076322,
