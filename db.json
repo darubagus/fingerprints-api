@@ -1,18 +1,11 @@
 {
    "fingerprints":[
       {
-         "id": 1,
-	 "name": "github.com",
-         "fingerprint": "MRFQDEpmASza4zPsP8ocnd5FyVREDn7kE3Fr/zZjwHQ=",
-         "expirationDate": 1591185600,
-         "signature": "8zUTkC3EK8gJWYBxGSO+pvyjIc8T4DegzcLWPXIIffLNJ8Luc38Nbep95Y8ZLaOU"
-      },
-      {
-         "id": 2,
-         "name" : "github.com",
-         "fingerprint" : "kqN/vV4hpTqVxxbhFE9EL1grlND6/Gc+tnF6TrUaiKc=",
-         "expirationDate" : 1710460799,
-         "signature" : "MEUCICB69UpMPOdtrsR6XcJqHEh2L2RO4oSJ3SZ7BYnTBJbGAiEAnZ7rEWdMVGwa59Wx5QbAorEFxXH89Iu0CnqWa96Eda0="
+	"id":1
+      	"name": "my-json-server.typicode.com",
+      	"fingerprint": "YKrT70CKk6srO59MucajemEju0gOAWGKAKNOT0GDsZY=",
+      	"expirationDate": 1696231812,
+      	"signature": "MEUCIQCPfgA8eAcKq/nK4c2pDJ//26OdKWGesXPJ3k318BOR5gIgOMpwAK669FTaU3uZY/EES74VrUMr/WmUFvkuiOFSF0Y="
     }
    ]
 }
