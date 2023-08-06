@@ -1,10 +1,10 @@
 {
-   "fingerprints":[
-      {
-      	"name": "my-json-server.typicode.com",
-      	"fingerprint": "YKrT70CKk6srO59MucajemEju0gOAWGKAKNOT0GDsZY=",
-      	"expirationDate": 1696231812,
-      	"signature": "MEYCIQDawLext7b0TIS6sSS2KBk7kf6HiKrjqXDUJl1WQevKIwIhAN17woc2YBvArECNupL4DXVceAB/rGT0AgWG6cBRL8Qb"
+  "fingerprints": [
+    {
+      "name": "*.openweathermap.org",
+      "fingerprint": "wJqbXkVEvII7szs7LV0lSTmCkff1CBJfgcGIKwpruKQ=",
+      "expirationDate": 1722383999,
+      "signature": "MEQCIAEqNLehM07A6lJaJKub7JtPk9TvjShbI/c10Q+6myVRAiBHo5o5Xw6dQ3Snu4wufVCYTXASxoLSONdkznEMhNapfQ=="
     }
-   ]
+  ]
 }
