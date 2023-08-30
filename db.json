@@ -11,6 +11,12 @@
       "fingerprint": "A1wx56nzcSsnHFqNguVsW5K8/Bh/ctdKtp1hv1PvPmc=",
       "expirationDate": 1698668199,
       "signature": "MEUCIGPscXQxaJ/NfY+WexkkXYBih4aIYGtzM1AAMDWfO5NMAiEAr++SnH5KZ3HZk+N/k4A4OhVkwMN2InOrt+c6xxAFf0I="
+    },
+    {
+      "name": "github.com",
+      "fingerprint": "kqN/vV4hpTqVxxbhFE9EL1grlND6/Gc+tnF6TrUaiKc=",
+      "expirationDate": 1710460799,
+      "signature": "MEQCIGoZqVIF/CM/UAYobntprf7yApnxJodGrKWeEWRu4m4PAiA/99hUJEW7Ws0kzuVd5sJwqiiQQJDNPaAQBalkQwWA4g=="
     }
   ]
 }
