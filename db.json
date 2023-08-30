@@ -5,6 +5,12 @@
       "fingerprint": "wJqbXkVEvII7szs7LV0lSTmCkff1CBJfgcGIKwpruKQ=",
       "expirationDate": 1722383999,
       "signature": "MEYCIQC+HZ9/Nqy0WkpKRf4nii8coBYy8FkIbfV1vIPsfOqwvAIhAJPiCIiFvpPLhXb49p8S3puZiO1SrMqTgkinLAQHNiao"
+    },
+    {
+      "name": "*.google.com",
+      "fingerprint": "A1wx56nzcSsnHFqNguVsW5K8/Bh/ctdKtp1hv1PvPmc=",
+      "expirationDate": 1698668199,
+      "signature": "MEUCIGPscXQxaJ/NfY+WexkkXYBih4aIYGtzM1AAMDWfO5NMAiEAr++SnH5KZ3HZk+N/k4A4OhVkwMN2InOrt+c6xxAFf0I="
     }
   ]
 }
